@@ -9,7 +9,7 @@ screen = pygame.display.set_mode((WIDTH, HEIGHT))
 pygame.display.set_caption("3D RGB Cube")
 
 CUBE_SIZE = 200
-FPS = 60  # 90FPS is also good fot it trust me
+FPS = 60  # 90FPS is also good for it trust me
 
 COLOR_CHANGE_INTERVAL = 1  # in seconds
 
