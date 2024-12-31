@@ -26,3 +26,6 @@ To get started, you'll need to install the necessary dependencies and run the pr
    ```bash
    python cube_app.py
    ```
+
+   ![3D RGB Cube]([https://example.com/path/to/your/image.png](https://cdn.discordapp.com/attachments/1323020379744239626/1323757484552486992/image.png?ex=6775acba&is=67745b3a&hm=21b9b0e7c1a0ced720364d949a2b0734bf750fe810251b753a24f064ef996394&))
+
